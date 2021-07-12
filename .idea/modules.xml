@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Vaja1/Vaja1.iml" filepath="$PROJECT_DIR$/Vaja1/Vaja1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vaja2/Vaja2.iml" filepath="$PROJECT_DIR$/Vaja2/Vaja2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vaja3-RmiClient/Vaja3-RmiClient.iml" filepath="$PROJECT_DIR$/Vaja3-RmiClient/Vaja3-RmiClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vaja3-RmiServer/Vaja3-RmiServer.iml" filepath="$PROJECT_DIR$/Vaja3-RmiServer/Vaja3-RmiServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vaja3-Service/Vaja3-Service.iml" filepath="$PROJECT_DIR$/Vaja3-Service/Vaja3-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vaja3-ServiceItf/Vaja3-ServiceItf.iml" filepath="$PROJECT_DIR$/Vaja3-ServiceItf/Vaja3-ServiceItf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vaja4-RestService/Vaja4-RestService.iml" filepath="$PROJECT_DIR$/Vaja4-RestService/Vaja4-RestService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vaja5-WeatherApi/Vaja5-WeatherApi.iml" filepath="$PROJECT_DIR$/Vaja5-WeatherApi/Vaja5-WeatherApi.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../Unit29-Vaje/Vaja4-RestService1" />
+    <file type="web" url="file://$PROJECT_DIR$/Vaja4-RestService" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Vaja1/pom.xml" />
+        <option value="$PROJECT_DIR$/Vaja2/pom.xml" />
+        <option value="$PROJECT_DIR$/Vaja3-ServiceItf/pom.xml" />
+        <option value="$PROJECT_DIR$/Vaja3-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Vaja3-RmiServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Vaja3-RmiClient/pom.xml" />
+        <option value="$PROJECT_DIR$/../Unit29-Vaje/Vaja4-RestService/pom.xml" />
+        <option value="$PROJECT_DIR$/Vaja5-WeatherApi/pom.xml" />
+        <option value="$PROJECT_DIR$/Vaja4-RestService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
